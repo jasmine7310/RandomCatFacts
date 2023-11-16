@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+header #randomCat{
+    background-color: rgb(70, 83, 203);
+    color: white;
+    margin: 0 0.5em;
+    padding: 0.5em;
+    border-radius: 0.5em;
+}
+
+body{
+    background-color: tan;
+}
+
+body #displayFacts{
+    justify-content: center;
+    align-items: center;
+}
